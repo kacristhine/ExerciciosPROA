@@ -3,7 +3,7 @@ programa
 /*11. Faça um programa que 10 valores informados pelo usuário, calcule, 
 exiba os números informados e escreva a média aritmética desses valores lidos.*/
 
-	real v1, v2, v3, v4, v5, v6, v7, v8, v9, v10	
+	 v1, v2, v3, v4, v5, v6, v7, v8, v9, v10	
 	real mediaAritmetica
 	
 	funcao inicio()
